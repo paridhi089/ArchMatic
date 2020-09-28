@@ -30,8 +30,10 @@ PKGS=(
 
     # COMMUNICATIONS ------------------------------------------------------
 
-    'brave-nightly-bin'         # Brave
+    'brave-bin'         # Brave
     
+    # GRAPHICS AND DESIGN -------------------------------------------------       
+    'glimpse-editor-git'         #Gimp Fork
 
     # THEMES --------------------------------------------------------------
 
