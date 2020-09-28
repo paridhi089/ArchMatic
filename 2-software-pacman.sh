@@ -73,6 +73,7 @@ PKGS=(
     'remmina'               # Remote Connection
     'veracrypt'             # Disc encryption utility
     'variety'               # Wallpaper changer
+    ' timeshift'         #Backup Utilitiy    
 
     # DEVELOPMENT ---------------------------------------------------------
 
@@ -95,6 +96,7 @@ PKGS=(
     #'kdenlive'              # Movie Render
     #'obs-studio'            # Record your screen
      'celluloid'             # Video player
+     'ffmpeg'     
     
     # GRAPHICS AND DESIGN -------------------------------------------------
 
